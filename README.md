@@ -146,7 +146,6 @@ Contributions are welcome! If you'd like to contribute:
 3. **Commit your changes**.
 4. **Open a pull request**.
 
-✅ Your contributions will help improve and expand the project!
 
 ---
 
@@ -173,7 +172,6 @@ For any issues or suggestions, reach out at:
 
 ---
 
-✅ This README section clearly outlines how to contribute, future plans, licensing, and contact details. Let me know if you need any modifications or additional sections!
 
 
 
