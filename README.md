@@ -412,26 +412,6 @@ Implementation Guidelines
     
 *   Testing and Debugging Strategies
 
-## 🛠️ **Installation**
-
-### **Clone the repository:**
-
-git clone https://github.com/shreesriv12/npm-dsa-package.git
-cd dsa-package
-
-
-## ⚙️ **Install Dependencies**
-
-### 🐍 **For Python**
-Install the required Python libraries by running:
-```bash
-pip install -r requirements.txt
-```
-###  **For C++**
-```
-g++ -o main main.cpp && ./main
-```
-
 
 
 ## 📊 **Complexity Analysis**
