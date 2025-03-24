@@ -400,17 +400,6 @@ Application Areas
 *   **Computer Networks**
     
 
-Learning Resources
-------------------
-
-*   Books
-    
-*   Online Courses
-    
-*   Practice Platforms
-    
-*   Visualization Tools
-    
 
 Implementation Guidelines
 -------------------------
@@ -443,37 +432,7 @@ pip install -r requirements.txt
 g++ -o main main.cpp && ./main
 ```
 
-### 📚 Usage
-C++ Example: Linked List
-````
-#include "dsa/linked_list.h"
 
-int main() {
-    LinkedList list;
-    list.insert(10);
-    list.insert(20);
-    list.display();
-    return 0;
-}
-````
-
-###Python Example: Stack
-```
-from dsa.stack import Stack
-
-stack = Stack()
-stack.push(10)
-stack.push(20)
-print(stack.pop())  # Output: 20
-```
-
-For Python:
-Run the test cases using pytest:
-pytest tests/
-
-For C++:
-Compile and run the test files:
-g++ -o test test.cpp && ./test
 
 ## 📊 **Complexity Analysis**
 
@@ -492,27 +451,6 @@ g++ -o test test.cpp && ./test
 
 ---
 
-## 📊 **Visualization**
-
-For sorting and tree traversals, you can include visualizations using **Matplotlib (Python)** or **Graphviz (C++)**.
-
----
-
-### 🐍 **Python Visualization Example**
-You can visualize data using **Matplotlib** by running the following code:
-```python
-import matplotlib.pyplot as plt
-
-# Sample data
-data = [5, 2, 9, 1, 5, 6]
-
-# Plotting a bar chart
-plt.bar(range(len(data)), data)
-plt.title("Sample Visualization")
-plt.xlabel("Index")
-plt.ylabel("Value")
-plt.show()
-````
 
 
 ## 🛡️ **Contributing**
@@ -524,16 +462,6 @@ Contributions are welcome! If you'd like to contribute:
 4. **Open a pull request**.
 
 
----
-
-## 🚀 **Future Improvements**
-Planned enhancements for this project include:
-- ✅ Add **Trie** and **HashMap** data structures.
-- ✅ Implement **Kruskal’s** and **Prim’s algorithms** for Minimum Spanning Tree (MST).
-- ✅ Add **Graphical Visualization** for traversals and sorting.
-- ✅ Include **Leetcode-style problems** for DSA practice.
-
----
 
 ## 📄 **License**
 This project is licensed under the **MIT License**.  
