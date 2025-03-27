@@ -1,6 +1,5 @@
 # 📚 DSA Package
 
-### 🚀 A comprehensive package for Data Structures and Algorithms implemented in C++ and Python.
 
 ---
 
